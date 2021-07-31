@@ -25,7 +25,7 @@ handlebars
 
 ### **Usage**
 site deployed:
-https://git.heroku.com/state-of-the-artjl.git
+https://state-of-art.herokuapp.com/
 
 
 <img src="StateArtScreen.png" height=200>
