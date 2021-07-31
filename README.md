@@ -1,26 +1,62 @@
-ArtFiles2: Contributors 
-•	Hunter Johnson
-•	Jennifer Lindsey
-•	Alex Elliott
-•	Cody Concklin 
+# State of the Art
 
-User Story: As a museum curator, I want to be able to view works of art to see where they are displayed. As a member of the site, I can add new artwork to my museum’s collection. 
+## **Description**
+This is a full stack application, where a user can update/add to/edit/search an artwork location database.
 
-Technologies Used: 
-•	Node.js
-•	Handlebars.js
-•	MySQL
-•	Sequelize ORM
-•	Express.js 
-•	Bootstrap
+## **Table of Contents**
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributors](#contributors)
+* [Licenses](#licenses)
+* [Badges](#Badges)
+* [Questions](#questions)
 
-Deployment Requirements: 
-•	Live URL via Heroku
-Deployed app: https://state-of-art.herokuapp.com/
-GitHub: https://state-of-art.herokuapp.com/
 
-Mock Up: 
+### **Installation**
+npm
+inquirer
+express
+dotenv
+bcrypt
+mysql2
+sequelize
+email validator
+handlebars
 
-![](images/mockup.png)
+### **Usage**
+site deployed:
+https://git.heroku.com/state-of-the-artjl.git
 
-©TeamWhiteboard est.2021
+
+<img src="StateArtScreen.png" height=200>
+
+<img src="ArtworkPage.png" height= 200>
+
+### **Technologies Used:**
+* Node.js
+* Handlebars.js
+* npm
+* MySQL
+* Bootstrap
+
+<img src="NodeJS.png" height=75>
+
+
+### *Contributors*
+* Cody Concklin
+* Alex Elliot
+* Hunter Johnson
+* Jennifer Lindsey
+
+### *Licenses*
+MIT license
+
+
+### *Badges*
+<img src="https://img.shields.io/badge/MIT-license-brightgreen">
+
+### *Questions*
+If you have any questions, reach out to me on Git Hub https://github.com/JJLindsey, or send me a message jlindsey010@gmail.com.
+
+
+©Jennifer Lindsey/Team Whiteboard 2021
